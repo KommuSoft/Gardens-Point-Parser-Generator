@@ -7,3 +7,4 @@ ParserGenerator/Scanner.cs
 #Build folder
 bin/*
 
+obj
