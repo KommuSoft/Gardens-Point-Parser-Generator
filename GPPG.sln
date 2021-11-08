@@ -1,7 +1,11 @@
 ﻿
-Microsoft Visual Studio Solution File, Format Version 11.00
-# Visual Studio 2010
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31129.286
+MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GPPG", "GPPG.csproj", "{AF1F8BCF-34FC-4A5E-9D45-BCC6031720BC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QUT.ShiftReduceParser", "QUT.ShiftReduceParser.csproj", "{1B2E588B-3AF7-43EA-9B49-A453C5C04731}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -13,8 +17,15 @@ Global
 		{AF1F8BCF-34FC-4A5E-9D45-BCC6031720BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AF1F8BCF-34FC-4A5E-9D45-BCC6031720BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AF1F8BCF-34FC-4A5E-9D45-BCC6031720BC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1B2E588B-3AF7-43EA-9B49-A453C5C04731}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1B2E588B-3AF7-43EA-9B49-A453C5C04731}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1B2E588B-3AF7-43EA-9B49-A453C5C04731}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1B2E588B-3AF7-43EA-9B49-A453C5C04731}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DCCCFBB8-29C7-4B23-9409-BE5E2C97D15F}
 	EndGlobalSection
 EndGlobal
