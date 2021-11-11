@@ -4,9 +4,9 @@
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
     <ProjectGuid>{1B2E588B-3AF7-43EA-9B49-A453C5C04731}</ProjectGuid>
-    <OutputType>Exe</OutputType>
+    <OutputType>Library</OutputType>
     <NoStandardLibraries>false</NoStandardLibraries>
-    <AssemblyName>gppg</AssemblyName>
+    <AssemblyName>QUT.ShiftReduceParser</AssemblyName>
     <RootNamespace>QUT.Gppg</RootNamespace>
     <FileUpgradeFlags>
     </FileUpgradeFlags>
@@ -37,6 +37,9 @@
     <DefineConstants>TRACE;EXPORT_GPPG</DefineConstants>
     <CodeAnalysisRuleSet>AllRules.ruleset</CodeAnalysisRuleSet>
     <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <StartupObject />
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
