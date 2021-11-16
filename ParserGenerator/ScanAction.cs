@@ -5,10 +5,10 @@
 //  See accompanying file GPLEXcopyright.rtf.
 //
 //  GPLEX Version:  1.2.2
-//  Machine:  PZ-WORKSTATION
-//  DateTime: 08.11.2021 14:37:23
-//  UserName: joche
-//  GPLEX input file <ScanAction.lex - 08.11.2021 14:29:14>
+//  Machine:  NB-PLEOTZS
+//  DateTime: 15.11.2021 12:40:30
+//  UserName: PloetzS
+//  GPLEX input file <ScanAction.lex - 09.11.2021 17:26:29>
 //  GPLEX frame file <embedded resource>
 //
 //  Option settings: verbose, noParser, noFiles, minimize

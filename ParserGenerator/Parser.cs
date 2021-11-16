@@ -3,10 +3,10 @@
 // (see accompanying GPPGcopyright.rtf)
 
 // GPPG version 1.5.2
-// Machine:  PZ-WORKSTATION
-// DateTime: 08.11.2021 14:37:22
-// UserName: joche
-// Input file <gppg.y - 08.11.2021 14:29:14>
+// Machine:  NB-PLEOTZS
+// DateTime: 15.11.2021 12:40:29
+// UserName: PloetzS
+// Input file <gppg.y - 09.11.2021 17:26:29>
 
 // options: no-lines gplex
 
@@ -59,13 +59,13 @@ internal class ScanObj {
 [GeneratedCodeAttribute( "Gardens Point Parser Generator", "1.5.2")]
 internal partial class Parser: ShiftReduceParser<ValueType, LexSpan>
 {
-  // Verbatim content from gppg.y - 08.11.2021 14:29:14
+  // Verbatim content from gppg.y - 09.11.2021 17:26:29
 /*
  *  Parser spec for GPPG
  *  gppg.y: Author: John Gough, August 2008
  *  Process with > GPPG /gplex /no-lines gppg.y
  */
-  // End verbatim content from gppg.y - 08.11.2021 14:29:14
+  // End verbatim content from gppg.y - 09.11.2021 17:26:29
 
 #pragma warning disable 649
   private static Dictionary<int, string> aliases;
