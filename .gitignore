@@ -1,8 +1,8 @@
 #Generated files
-#ParserGenerator/GplexBuffers.cs
-#ParserGenerator/Parser.cs
-#ParserGenerator/ScanAction.cs
-#ParserGenerator/Scanner.cs
+ParserGenerator/GplexBuffers.cs
+ParserGenerator/Parser.cs
+ParserGenerator/ScanAction.cs
+ParserGenerator/Scanner.cs
 
 #Build folder
 bin/*
